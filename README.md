@@ -1,1 +1,1 @@
-May 2020 Leetcode challanges and solutions. Problems are available at https://leetcode.com/problemset/all/ with the same names with my modules.
+May 2020 may-leetcoding-challange solutions. Problems are available at https://leetcode.com/problemset/all/ with the same names with my modules.
