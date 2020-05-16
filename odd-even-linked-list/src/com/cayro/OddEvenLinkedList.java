@@ -19,7 +19,7 @@ public class OddEvenLinkedList {
         ListNode second = new ListNode(1, third);
         ListNode head = new ListNode(2, second);
 
-        ListNode listNode = solution.oddEvenList(head);
+        ListNode listNode = solution.oddEvenList2(head);
         int val = listNode.val;
     }
 
